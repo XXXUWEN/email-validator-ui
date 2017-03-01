@@ -1,7 +1,7 @@
 email-validator-ui
 ==============
 
-Template for a simple Vaadin application that only requires a Servlet 3.0 container to run.
+I combine the question2 code into this one and make a simply UI which can tset input string if it's domain name and email name valid.
 
 
 Workflow
